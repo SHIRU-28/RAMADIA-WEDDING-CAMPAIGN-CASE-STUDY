@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shiru-28.github.io/RAMADIA-WEDDING-CAMPAIGN-CASE-STUDY/sitemap.xml
